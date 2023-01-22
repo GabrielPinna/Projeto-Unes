@@ -1,6 +1,4 @@
 # Projeto #1 "Unes"
- 
- ## Faculdade Fictícia Unes
 
  Primeiro projeto, usando somente HTML5.
 
