@@ -1,6 +1,6 @@
-# Projeto1 Unes
+# Projeto #1 "Unes"
  
- ## Faculdade Ficticia Unes - HTML 5
+ ## Faculdade Fictícia Unes
 
  Primeiro projeto, usando somente HTML5.
 
