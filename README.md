@@ -1,19 +1,21 @@
 # Projeto1 Unes
- Faculdade Ficticia Unes - HTML 5
+ 
+ ## Faculdade Ficticia Unes - HTML 5
 
- Primeiro projeto, usando somente HTML5 para fixação do conteúdo.
+ Primeiro projeto, usando somente HTML5.
 
- Detalhes do Projeto:
+ ## Página Home
 
- - Site simples com 3 páginas.
- - Links funcionais.
- - Formulário simples para contato.
+ ![imagem](./Imagens/homeunes.png)
 
- Estrutura:
+ ## Página Quem Somos
 
- - table, td, tr.
- - img, a href.
- - h2, h4.
- - p, br, hr.
- - ul, li.
- - form, input, text-area.
+ ![imagem](./Imagens/quemsomosunes.png)
+
+ ## Página Contato
+
+ ![imagem](./Imagens/contatounes.png)
+
+ ## Projeto criado com:
+
+ ![imagem](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
